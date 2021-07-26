@@ -56,7 +56,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering: Conditional rendering is 
+1. Conditional rendering: Conditional rendering is similar to conditionals in js when you render one ui or another based on conditions that have been met
 
 2. Ruby: Ruby is a back end object oriented programming language.
 
